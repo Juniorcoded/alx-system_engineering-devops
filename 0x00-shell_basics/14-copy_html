@@ -1,0 +1,2 @@
+#!/ban/bash
+cp -un *.html ../
